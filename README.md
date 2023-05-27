@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I have a very good career run in systems applications in C/C++ with a smattering of C#, Python, JavaScript, Typescript, nodeJS
+- I am a systems applications developer with expertise in C/C++ with a smattering of C#, Python, JavaScript, Typescript, nodeJS
 - 🌱 I’m currently learning Rust, ML, Polars
 - I enjoy solving technical challenges
 
