@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I have a very good career run in systems applications in C/C++ with a smattering of C#, Python, JavaScript, Typescript, nodeJS
+- 🌱 I’m currently learning Rust, ML, Polars
+- I enjoy solving technical challenges
+
+---
+
+
 <a href="https://app.daily.dev/agatekartik">
   <img src="https://api.daily.dev/devcards/5de667a74d6a435287b62257653129db.png?r=5x1" width="400" alt="Kartikeya Agate's Dev Card"/>
 </a>
