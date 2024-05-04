@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ---
 
-
 <a href="https://app.daily.dev/agatekartik">
-  <img src="https://github.com/agatekartik/agatekartik/blob/main/devcard.svg" width="400" alt="Kartikeya Agate's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/P20PHYCpKNBs1x7cd3rNv.png?type=default&r=2ga" width="356" alt="Kartikeya Agate's Dev Card"/>
 </a>
